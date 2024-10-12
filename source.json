@@ -7,24 +7,24 @@
       "bundleIdentifier": "com.spotify.client",
       "developerName": "EeveeSpotify",
       "localizedDescription": "Cracked version of Spotify",
-      "iconURL": "https://cdn.oatmealdome.me/dolphinios/AppIcon.appiconset/ios_marketing1024x1024.png",
+      "iconURL": "https://github.com/accelo0/Angelo-AltSoruce/blob/main/Icons/AppIcon60x60@2x.png?raw=true",
       "beta": false,
       "versions": [
         {
           "version": "8.9.76",
-          "date": "2022-09-11T22:00:00.0000000Z",
+          "date": "2024-10-12T22:00:00.0000000Z",
           "localizedDescription": "Cracked version of Spotify (1)",
           "downloadURL": "https://github.com/accelo0/Angelo-AltSoruce/raw/refs/heads/main/%5B@Spotify-Crack%5D%20Spotify-8.9.76.ipa",
-          "size": 80253902,
+          "size": 75700000,
           "minOSVersion": "12.0",
           "maxOSVersion": "99.0"
         }
       ],
       "version": "8.9.76",
-      "versionDate": "2022-09-11T22:00:00.0000000Z",
+      "versionDate": "2022-10-12T22:00:00.0000000Z",
       "versionDescription": "Cracked version of Spotify (1)",
       "downloadURL": "https://github.com/accelo0/Angelo-AltSoruce/raw/refs/heads/main/%5B@Spotify-Crack%5D%20Spotify-8.9.76.ipa",
-      "size": 80253902
+      "size": 75700000
     }
   ],
   "news": [
@@ -33,7 +33,7 @@
       "identifier": "dolphinios-version-3-2-0-release",
       "caption": "Finally, the public version of Angelo AltSoruce is here!",
       "date": "2022-05-22T00:00:00.0000000Z",
-      "tintColor": "0074f8",
+      "tintColor": "ffc0cb",
       "imageURL": "https://cdn.oatmealdome.me/dolphinios/altstore/altstore-banner-3-2-0.png",
       "url": "https://oatmealdome.me/blog/dolphinios-ver-3-2-0/",
       "notify": false
